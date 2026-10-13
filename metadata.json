@@ -1,0 +1,7 @@
+{
+  "name": "Pamu Ceylon Tour - Sri Lanka Travel & Tours",
+  "description": "Discover Sri Lanka naturally with Pamu Ceylon Tour. Custom private tours, airport transfers, vehicle hire, and authentic holiday itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

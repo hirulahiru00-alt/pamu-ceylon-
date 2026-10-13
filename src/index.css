@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --forest-green: #164D35;
+    --leaf-green: #4F8A56;
+    --warm-sand: #E9DFC9;
+    --cream-bg: #FAF8F5;
+  }
+
+  body {
+    font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+    color: #1e293b;
+    background-color: var(--cream-bg);
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-display {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
